@@ -1,4 +1,4 @@
-# shared_prefs_starting_code
+# shared_prefs_tutorial
 
 This code is meant to accompany the Shared Preferences tutorial on the Fluttercraft YouTube channel at: https://www.youtube.com/@flutter_craft
 
